@@ -5,7 +5,13 @@
 /tmp
 /out-tsc
 /bazel-out
-
+dadosGitHub.txt
+yarn.lock
+karma.conf.js
+.editorconfig
+.browserslistrc
+.vscode
+.angular
 # Node
 /node_modules
 npm-debug.log
