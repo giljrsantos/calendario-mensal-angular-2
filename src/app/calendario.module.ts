@@ -8,8 +8,8 @@ import { NgModule } from '@angular/core';
     CalendarioComponent
   ],
   imports: [
-    BrowserModule,
-    CommonModule
+    CommonModule,
+    BrowserModule
   ],
   exports:[
     CalendarioComponent
