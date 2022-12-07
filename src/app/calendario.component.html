@@ -1,1 +1,5 @@
-<div>Projeto Calendário</div>
+<div class="calendario-dias">
+    <span *ngFor="let dia of diasCalendario">
+        {{dia | date : 'dd'}}
+    </span>
+</div>
